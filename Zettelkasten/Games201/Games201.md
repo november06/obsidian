@@ -4,3 +4,9 @@
 
 Lagrangian: sensors that move passively
 Eulerian: still sensors that never move
+
+2. 
+	1. Mass Spring System
+		1. stiffness
+		2. damping
+	2. SPH
