@@ -2,6 +2,8 @@
 
 [Games201 Slides - 也是论坛](https://forum.taichi-lang.cn/t/topic/272)  
 
+[github](https://github.com/taichi-dev/games201)
+
 Lagrangian: sensors that move passively
 Eulerian: still sensors that never move
 
